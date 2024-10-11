@@ -1,6 +1,7 @@
 # CK3-Locator-Checker
 Compares your modded locators against reference expectation on the modded province map<br>
 Extract folder from downloaded .zip anywhere you like and run CK3_locator_checker.exe<br>
+Locator files with removed mismatched locators are found in new folder updated_locators after running the script
 
 ## Important
 You need to manually place your edited province.png file in the script directory and name it "province_modded.png".<br>
