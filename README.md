@@ -2,9 +2,11 @@
 Compares your modded locators against reference expectation on the modded province map
 
 ## Important
-You need to manually place your edited province.png file in the script directory and name it "province_modded.png".
-Delete updated_locators folder everytime you re-run the script.
-Base game reference directory can be swapped with another mod, like Rajas of Asia.
+You need to manually place your edited province.png file in the script directory and name it "province_modded.png".</b>
+Delete updated_locators folder everytime you re-run the script.</b>
+Base game reference directory can be swapped with another mod, like Rajas of Asia.</b>
+
+## Details
 
 1) Script first compares definition.csv of base game and mod folder and creates new_definition.csv containing only the mismatching lines.
 
